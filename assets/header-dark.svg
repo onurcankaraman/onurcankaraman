@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="264" viewBox="0 0 960 264" role="img" aria-labelledby="title desc">
+<title id="title">Onur Can Karaman — Build, connect, share.</title>
+<desc id="desc">Dijital dönüşüm, Industrial IoT ve yazılım. Pastel bir devre karakteri ve küçük bir filizle kişisel çalışma alanı.</desc>
+<defs><linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#171e29"/><stop offset="1" stop-color="#292941"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#485766"/></pattern></defs>
+<rect width="960" height="264" rx="24" fill="url(#bg)"/>
+<rect x="628" y="12" width="320" height="240" rx="16" fill="url(#grid)" opacity=".65"/>
+<path d="M895-20c-78 16-73 79-15 86s87 42 62 79" fill="none" stroke="#d6ab95" stroke-width="28" opacity=".27"/>
+<circle cx="39" cy="35" r="4" fill="#96c9b2"/><text x="53" y="39" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.5" fill="#b2c2bc">BUILD · CONNECT · SHARE</text>
+<text x="38" y="111" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.6" fill="#f0f3ec">Onur Can Karaman</text>
+<text x="40" y="147" font-family="Arial,sans-serif" font-size="17" fill="#b2c2bc">Digital transformation · Industrial IoT · Software</text>
+<rect x="39" y="183" width="173" height="32" rx="16" fill="#96c9b2"/>
+<text x="55" y="204" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#304d46">@onurcankaraman</text>
+<text x="229" y="204" font-family="Arial,sans-serif" font-size="13" fill="#b2c2bc">Merak et. Üret. Paylaş.</text>
+<g stroke="#485766" stroke-width="2" fill="none" stroke-linecap="round"><path d="M638 97h37l15 15h33M649 171h32l19-19h26M836 101h36l15-17h33M837 164h41l13 15h28"/><circle cx="637" cy="97" r="5" fill="#d6ab95"/><circle cx="648" cy="171" r="5" fill="#8883ad"/><circle cx="920" cy="84" r="5" fill="#96c9b2"/><circle cx="919" cy="179" r="5" fill="#d6ab95"/></g>
+<g transform="translate(700 183) rotate(-7)"><rect width="143" height="34" rx="9" fill="#46515e"/><rect x="5" y="-9" width="140" height="32" rx="8" fill="#343f4e"/><path d="M23 6h49M23 13h71" stroke="#485766" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(719 66) rotate(5 59 59)">
+<path d="M59 5V-9m-6-5h12" stroke="#304d46" stroke-width="4" stroke-linecap="round"/>
+<circle cx="59" cy="-17" r="6" fill="#d6ab95"/>
+<rect x="0" y="0" width="119" height="117" rx="24" fill="#96c9b2" stroke="#304d46" stroke-width="2"/>
+<g stroke="#304d46" stroke-width="3" stroke-linecap="round"><path d="M-8 30H0m-8 20H0m-8 20H0m-8 20H0M119 30h8m-8 20h8m-8 20h8m-8 20h8"/></g>
+<rect x="15" y="19" width="89" height="65" rx="17" fill="#edf3eb"/>
+<circle cx="43" cy="48" r="4.5" fill="#304d46"/><circle cx="76" cy="48" r="4.5" fill="#304d46"/>
+<path d="M49 62q11 9 21 0" fill="none" stroke="#304d46" stroke-width="3" stroke-linecap="round"/>
+<circle cx="31" cy="59" r="5" fill="#d6ab95" opacity=".85"/><circle cx="88" cy="59" r="5" fill="#d6ab95" opacity=".85"/>
+<rect x="21" y="96" width="30" height="5" rx="2.5" fill="#304d46" opacity=".4"/><circle cx="95" cy="98" r="4" fill="#d6ab95"/>
+</g>
+<g transform="translate(874 207)"><path d="M-10 0h31l-5 25H-5z" fill="#d6ab95"/><path d="M6 0v-24" stroke="#b2c2bc" stroke-width="3" stroke-linecap="round"/><path d="M6-13C-12-11-16-25-15-31 1-32 8-24 6-13ZM6-23C7-38 21-42 28-39 30-26 19-20 6-23Z" fill="#96c9b2"/></g>
+<g fill="#8883ad"><path d="m671 45 3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/><circle cx="850" cy="224" r="3"/></g>
+</svg>
